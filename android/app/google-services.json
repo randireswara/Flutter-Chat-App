@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245771196343",
+    "project_id": "chatapprandi",
+    "storage_bucket": "chatapprandi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245771196343:android:1c2c6116be57acdff47a32",
+        "android_client_info": {
+          "package_name": "com.randi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245771196343-7af86agr9krvb1ibeeligq3st6ega00f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.randi.chat_app",
+            "certificate_hash": "36a558c430adeba6413bd6fad8d67b198f2eeb40"
+          }
+        },
+        {
+          "client_id": "245771196343-9bneaqhd8cveffbrn5o0nq23ts1tvutp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEWdvM7GcCH2ejvvDUcC-gZIvvqpnONo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245771196343-9bneaqhd8cveffbrn5o0nq23ts1tvutp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

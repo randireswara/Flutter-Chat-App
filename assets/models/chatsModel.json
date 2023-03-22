@@ -1,0 +1,23 @@
+{
+    "connection":[
+        "randi@gmail.com",
+        "dinar@gmail.com"
+    ],
+    "chat":[
+        {
+            "pengirim" : "randi@gmail.com",
+            "penerima" : "dinar@gmail.com",
+            "pesan": "hai sayang",
+            "time":"2021-09-12",
+            "isRead":true
+        },
+        {
+            "pengirim" : "dinar@gmail.com",
+            "penerima" : "randi@gmail.com",
+            "pesan": "hai juga sayang",
+            "time":"2021-09-13",
+            "isRead":false
+        }
+    ]
+
+}

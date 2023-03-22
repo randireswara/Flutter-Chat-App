@@ -1,0 +1,28 @@
+{
+    "uid":"",
+    "email":"",
+    "name":"",
+    "keyName":"",
+    "photoURL":"",
+    "status":"",
+    "lastSignIn":"",
+    "createdAt":"",
+    "updateTime":"",
+    "chats":[
+        {
+            "connection":"Fitriani@gmail.com" ,
+            "chat_id":"R0903909203",
+            "lastTime": "2021-06-09",
+            "total_unread": 0
+
+        },
+        {
+            "connection":"randi@gmail.com" ,
+            "chat_id":"R9i03i20i032",
+            "lastTime": "2021-06-09",
+            "total_unread": 0
+
+        }
+    ]
+
+}
